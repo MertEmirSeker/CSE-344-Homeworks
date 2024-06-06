@@ -1,7 +1,7 @@
 # Grades
 hw1 - 100\
 hw2 - 100\
-midterm -\
+midterm -70\
 hw3 -100\
 hw4 - \
 hw5 - \

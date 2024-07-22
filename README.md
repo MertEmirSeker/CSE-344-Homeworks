@@ -5,4 +5,4 @@ midterm -70\
 hw3 -100\
 hw4 - 100\
 hw5 - 100\
-final -
+final - 30
